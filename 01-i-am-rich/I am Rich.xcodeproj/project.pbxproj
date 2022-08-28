@@ -24,7 +24,6 @@
 		0D5A273828B5D02700E6D544 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D5A273B28B5D02700E6D544 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D5A273D28B5D02700E6D544 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0D5A274328B5D16B00E6D544 /* .gitignore.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = .gitignore.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +63,6 @@
 				0D5A273828B5D02700E6D544 /* Assets.xcassets */,
 				0D5A273A28B5D02700E6D544 /* LaunchScreen.storyboard */,
 				0D5A273D28B5D02700E6D544 /* Info.plist */,
-				0D5A274328B5D16B00E6D544 /* .gitignore.md */,
 			);
 			path = "I am Rich";
 			sourceTree = "<group>";
@@ -289,6 +287,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NMRXM48279;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "I am Rich/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -316,6 +315,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NMRXM48279;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "I am Rich/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
